@@ -1,0 +1,12 @@
+[counter]
+count = 0
+
+[overlay]
+text = this will be way more than the 35 characters needed!!
+
+[twitter]
+consumer_key = xxxxxxxxxxxxxxxxx
+consumer_secret = xxxxxxxxxxxxxxx
+access_token = xxxxxxxxxxxxxxxxxx
+access_token_secret = xxxxxxxxxxxxxxxxx
+
